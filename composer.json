@@ -1,6 +1,6 @@
 {
     "name": "leofranca47/abstract-repository-eloquent-laravel",
-    "description": "This is a php class where it has methods that can be called equal in Eloquent. It serves to create responses and facilitate unit tests without losing the power of the Eloquent",
+    "description": "Essa é uma classe php onde tem métodos que podem ser chamados igual no Eloquent. Serve para criar repositórios e facilitar os testes unitários sem perder o poder do Eloquent /n This is a php class where it has methods that can be called equal in Eloquent. It serves to create responses and facilitate unit tests without losing the power of the Eloquent",
     "minimum-stability": "stable",
     "license": "MIT",
     "authors": [
