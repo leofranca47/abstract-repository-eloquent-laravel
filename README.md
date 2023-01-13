@@ -20,3 +20,8 @@ protected function resolveModel(): Model
     return app(Model::class);
 }
 ````
+## INSTALATION
+```SHELL
+composer require leofranca47/abstract-repository-eloquent-laravel
+```
+
